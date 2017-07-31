@@ -1,6 +1,6 @@
 from sys import exit
-from backdoor import *
-from lobby import *
+import backdoor
+import lobby
 
 has_envelope = False
 
